@@ -16,3 +16,4 @@ Silahkan buka soal berdasarkan nama kalian di bawah ini:
 12. [RAMADHANI FADILLAH](/soal/RAMADHANI-FADILLAH.md)
 13. [RENY AULIA PUTRI](/soal/RENY-AULIA-PUTRI.md)
 14. [RIZQI AHMAD](/soal/RIZQI-AHMAD.md)
+15. [MUHAMMAD RIKO](/soal/MUHAMMAD-RIKO.md)
